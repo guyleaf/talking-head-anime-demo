@@ -1,0 +1,3 @@
+[submodule "tools/pytorch2keras"]
+	path = tools/pytorch2keras
+	url = https://github.com/nerox8664/pytorch2keras.git
